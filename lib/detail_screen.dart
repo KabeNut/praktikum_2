@@ -33,7 +33,19 @@ class DetailScreen extends StatelessWidget{
                       Icon(Icons.calendar_today),
                       Text('Open Everyday'),
                     ],
-                  )
+                  ),
+                  Column(
+                    children: const <Widget>[
+                      Icon(Icons.access_time),
+                      Text('08.00 - 16.00'),
+                    ],
+                  ),
+                  Column(
+                    children: const <Widget>[
+                      Icon(Icons.attach_money),
+                      Text('Rp. 10.000,-')
+                    ],
+                  ),
                 ],
               ),
             ),//Logo
