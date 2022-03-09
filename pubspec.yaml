@@ -60,6 +60,17 @@ flutter:
     - assets/monkasel_1.jpg
     - assets/monkasel_2.jpg
     - assets/monkasel_3.jpg
+    - assets/klenteng1.jpg
+    - assets/klenteng2.jpg
+    - assets/sampoerna1.jpg
+    - assets/sampoerna2.jpg
+    - assets/sampoerna3.jpg
+    - assets/suro1.jpg
+    - assets/suro2.jpg
+    - assets/suro3.jpg
+    - assets/tugu1.jpg
+    - assets/tugu2.jpg
+    - assets/tugu3.jpg
 
   fonts:
     - family: Poppins
