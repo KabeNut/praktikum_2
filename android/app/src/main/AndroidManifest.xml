@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.prak2">
+    package="com.example.tugas_frontend_5">
    <application
-        android:label="prak2"
+        android:label="tugas_frontend_5"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

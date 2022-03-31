@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627414342932",
+    "project_id": "project-wppb",
+    "storage_bucket": "project-wppb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627414342932:android:8cbcafc44b2bbd7e237601",
+        "android_client_info": {
+          "package_name": "com.example.prak2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627414342932-5qunvuk86c4d1nelgesgfn7e6odg5nkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2BmRd4ihsp22LdrDepqCdKH6yhP4Lryo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627414342932-5qunvuk86c4d1nelgesgfn7e6odg5nkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
